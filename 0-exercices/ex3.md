@@ -1,4 +1,4 @@
-# Exercice 3 : avantages et inconvénients des méthodes agiles
+# Exercice 3 : avantages et inconvénients des méthodes prédictives et agiles
 
 ---
 
