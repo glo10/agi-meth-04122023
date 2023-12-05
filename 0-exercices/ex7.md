@@ -7,9 +7,9 @@
 - En groupe
 
 L'exercice se déroule en 3 phases.
-1. Phase 1 : préparation des questions pour les utilisateurs finaux à l'aide d'un [GoogleForms](https://docs.google.com/forms/u/0/).
-2. Phase 2 : répondez aux questions en vous mettant dans la peau d'un potentiel utilisateur ou en étant vous-même et partagez également votre formulaire avec le formateur pour qu'il puisse y répondre.
-3. Phase 3 : créez vos personas à partir de l'analyse des réponses et à l'aide du site [Edit.org](https://edit.org/fr/blog/user-persona-online-editable-templates-examples) pour créer des personas
+1. Phase 1 30 min à 45 min en groupe : préparation des questions pour les utilisateurs finaux à l'aide d'un [GoogleForms](https://docs.google.com/forms/u/0/).
+2. Phase 2 15 min individuel: répondez aux questions en vous mettant dans la peau d'un potentiel utilisateur ou en étant vous-même et partagez également votre formulaire avec le formateur pour qu'il puisse y répondre.
+3. Phase 3 30 min en équipe (en avoir au moins 1): créez vos personas à partir de l'analyse des réponses et à l'aide du site [Edit.org](https://edit.org/fr/blog/user-persona-online-editable-templates-examples) pour créer des personas
 
 ---
 
